@@ -18,3 +18,5 @@ The changes from the "development" branch are merged into the "main" branch succ
 Definition of Done (DoD):
 
 Link to new-project Readme file
+
+якась інструкція
