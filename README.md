@@ -1,22 +1,14 @@
-Jira Ticket:
-
-Task Title: Set up new Git repository and create development branch for 'new-project'
-
-Task Description:
-
-As a developer, I need a new GitHub repository for 'new-project' and i need a development branch so that I can work on new features without affecting the main branch. 
-Readme file should contain step-by-step instructions on how we can do it ourselves.
-
-Expected Results:
-
-A new branch called "development" is created and the user is able to switch to it successfully.
-A new file called "README.md" is created and step-by-step instructions is added to it successfully.
-The changes to the "development" branch are committed with a commit message successfully.
-The changes from the "development" branch are merged into the "main" branch successfully.
-
-
-Definition of Done (DoD):
-
-Link to new-project Readme file
-
-якась інструкція
+A n a s t a s i a R o p a y
+PROFILE SUMMARY
+Have been learning the basis of Python in Hillel IT school during 8 months(may 2023-December 2023).
+While studying(aug-dec 2023) have began working with mentor on charity project of a support system, since
+January 2024 is working with team as a backend developer on a noncommercial project in the area of
+ecommerce.
+HARD SKILLS
+Cloud/Virtualisation: Digital Ocean, Docker,Microsoft Azure;
+Developer tools: Postman, VS Code,PyCharm;
+Languages: Python;
+Frameworks: Django, Django REST Framework;
+CI/CD: Github Actions;
+Databases: SQL (MySQL, PostgreSQL), NoSQL ( Redis,);
+OS: Windows, MacOS
